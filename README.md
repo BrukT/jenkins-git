@@ -1,5 +1,5 @@
 # jenkins-git
 
-[![Build Status](http://ec2-3-73-146-193.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci-pipeline)](http://ec2-3-73-146-193.eu-central-1.compute.amazonaws.com/job/fibonacci-pipeline/)
+[![Build Status](http://52.28.82.17/buildStatus/icon?job=fibonacci-pipeline)](http://52.28.82.17/job/fibonacci-pipeline/)
 
  jenkins practice
